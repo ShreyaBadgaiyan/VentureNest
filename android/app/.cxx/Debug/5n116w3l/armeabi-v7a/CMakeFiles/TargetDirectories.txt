@@ -1,0 +1,2 @@
+D:/Desktop/ui_ventureNest/ui/android/app/.cxx/Debug/5n116w3l/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Desktop/ui_ventureNest/ui/android/app/.cxx/Debug/5n116w3l/armeabi-v7a/CMakeFiles/rebuild_cache.dir

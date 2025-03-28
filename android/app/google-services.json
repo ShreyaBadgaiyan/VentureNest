@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "587340109319",
+    "project_id": "venturenest-56da9",
+    "storage_bucket": "venturenest-56da9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587340109319:android:cf768924657836b4227ca2",
+        "android_client_info": {
+          "package_name": "com.example.ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2u0zEYRaDcBJ-KFGj57JkGhXCv-5-bwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
