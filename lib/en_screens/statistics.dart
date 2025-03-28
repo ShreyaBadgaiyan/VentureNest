@@ -1,7 +1,7 @@
-import 'package:core/en_screens/data/utlity.dart';
-import 'package:core/en_screens/model/add_date.dart';
-import 'package:core/en_screens/widgets/charts.dart';
 import 'package:flutter/material.dart';
+import 'package:ui/en_screens/data/utlity.dart';
+import 'package:ui/en_screens/model/add_date.dart';
+import 'package:ui/en_screens/widgets/charts.dart';
 
 class Statistics extends StatefulWidget {
   const Statistics({Key? key}) : super(key: key);
